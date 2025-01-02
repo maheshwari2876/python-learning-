@@ -33,6 +33,13 @@ variable types :
 3. int
 4. str
     
+few more types 
+5. range 
+6. list
+7. tuple 
+8. dict
+9. set
+
 
 
 Libraries :  
